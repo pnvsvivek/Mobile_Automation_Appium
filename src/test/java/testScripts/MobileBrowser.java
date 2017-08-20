@@ -14,6 +14,11 @@ import org.testng.annotations.Test;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 
+/**
+ * This class is for illustrating the writing of test scripts which includes setup for Appium for android browser applications on mobile
+ * @author p.nvs.vivek
+ *
+ */
 public class MobileBrowser {
 	
 	AppiumDriver<WebElement> driver;

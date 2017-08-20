@@ -24,6 +24,13 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import reusability.Components;
 
+
+/**
+ * This class is for illustrating the writing of test scripts for Appium for android native applications on mobile
+ * @author p.nvs.vivek
+ *
+ */
+
 public class NativeGmailAppOperations {
 	
 	static ExtentReports report = null;
