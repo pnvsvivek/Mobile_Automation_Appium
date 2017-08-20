@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57547" started-at="2017-08-16T21:12:56Z" finished-at="2017-08-16T21:13:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57547" started-at="2017-08-16T21:12:56Z" finished-at="2017-08-16T21:13:54Z">
+      <class name="testScripts.MobileBrowser">
+        <test-method status="PASS" signature="setUpAppium()[pri:0, instance:testScripts.MobileBrowser@4bec1f0c]" name="setUpAppium" is-config="true" duration-ms="39343" started-at="2017-08-17T02:42:56Z" finished-at="2017-08-17T02:43:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAppium -->
+        <test-method status="PASS" signature="handleAlert()[pri:0, instance:testScripts.MobileBrowser@4bec1f0c]" name="handleAlert" duration-ms="11599" started-at="2017-08-17T02:43:35Z" finished-at="2017-08-17T02:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleAlert -->
+        <test-method status="PASS" signature="tearAppium()[pri:0, instance:testScripts.MobileBrowser@4bec1f0c]" name="tearAppium" is-config="true" duration-ms="6534" started-at="2017-08-17T02:43:47Z" finished-at="2017-08-17T02:43:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearAppium -->
+      </class> <!-- testScripts.MobileBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
